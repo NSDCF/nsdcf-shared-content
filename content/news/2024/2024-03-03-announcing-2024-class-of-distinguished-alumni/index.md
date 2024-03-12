@@ -6,7 +6,7 @@ summary = ""
 "news/categories" = ["Scholarships"]
 
 [[resources]]
-  src  = "2024-scholarship-mast.jpg"
+  src  = "dist-alumni-mast.jpg"
   name = "featured"
 +++
 
