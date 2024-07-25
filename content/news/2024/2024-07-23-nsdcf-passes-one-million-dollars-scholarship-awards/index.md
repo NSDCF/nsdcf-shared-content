@@ -1,6 +1,6 @@
 +++
 date    = 2024-07-23T12:00:00-05:00
-title   = "The NSDCF Passes Over One Million Dollars in Scholarship Awards"
+title   = "The NSDCF Passes Over One Million Dollars in Total Scholarship Awards"
 author = "Jack Boylan"
 draft   = false
 summary = ""
