@@ -15,7 +15,7 @@ draft   = false
 On May 26, 2022, the Norwin community gathered alongside alumni to honor the achievements of eleven Distinguished Norwin Alumni, one Distinguished Friend of Norwin, and the NAFA Scholarship recipient. It was an evening of celebration, reflection, and gratitude. Those honored include:
 {{% /p %}}
 
-Those honored include Mr. Matthew Bertoty *‘14*, Ms. Betsy Frye *née* Bouldin *‘80*, Dr. Jodi A. Burns *née* Pezek *‘87*, Ed.D., Mr. Michael Doyle *‘92*, Ms. Kelly Doyle *née* Sickels *‘91*, Ms. Allison Leigh Fedorka *‘03*, Mr. John S. Howell *‘79*, Ms. Annetta L. Marion *‘83*, Ms. Sarita Nair *‘91*, Ms. Ashley Popojas *‘05*, and Mr. Trey G. Quealy *‘15*. Mr. Bill Priatko was honored as a *Friend of Norwin*, and the 2025 NAFA Scholarship recipients were  Mr. Nikolas G. Kelly *‘25* and Mr. Adam D. Guskiewicz *‘25*. You may read about each recipient in the [2025 Distinguished Alumni]({{< ref "/distinguished-alumni/2025/index.md#recipients" >}}) section.
+Those honored include Mr. Matthew Bertoty *‘14*, Ms. Betsy Frye *née* Bouldin *‘80*, Dr. Jodi A. Burns *née* Pezek *‘87*, Ed.D., Mr. Michael Doyle *‘92*, Ms. Kelly Doyle *née* Sickels *‘91*, Ms. Allison Leigh Fedorka *‘03*, Mr. John S. Howell *‘79*, Ms. Annetta L. Marion *‘83*, Ms. Sarita Nair *‘91*, Ms. Ashley Popojas *‘05*, and Mr. Trey G. Quealy *‘15*. Mr. Bill Priatko was honored as a *Friend of Norwin*, and the 2025 NAFA Scholarship recipients were  Mr. Nikolas G. Kelly *‘25* and Mr. Adam D. Guskiewicz *‘25*. You may read about each recipient in the [2025 Distinguished Alumni](https://norwinalumni.org/distinguished-alumni/2025/index.md#recipients) section.
 
 {{< gallery "photos_a/*.jpg" >}}
 
