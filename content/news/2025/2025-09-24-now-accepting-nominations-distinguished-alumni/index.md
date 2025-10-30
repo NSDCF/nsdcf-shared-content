@@ -5,6 +5,7 @@ author = "Jo Ann Stoecklein"
 draft   = false
 summary = ""
 "news/categories" = ["Distinguished Alumni"]
+aliases       = ["/distinguished-alumni/nominations/"]
 
 [[resources]]
   src  = "alumni-nominations.jpg"
