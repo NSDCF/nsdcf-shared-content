@@ -19,8 +19,6 @@ draft   = false
   uploadDate  = 2026-10-03T18:23:17-07:00
 +++
 
-{{< youtube src="VLydB9_M3vg" class="yt-container--full" >}}
-
 One of the things I have always appreciated about the Norwin community is the way people remain connected to it long after graduation.
 
 As a retired Norwin teacher, I had the opportunity to watch students grow up, graduate and begin lives of their own. Years later, some returned as parents, teachers, coaches, volunteers or supporters of the schools they once attended.
