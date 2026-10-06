@@ -19,8 +19,6 @@ draft   = false
   uploadDate  = 2026-10-04T10:56:46-07:00
 +++
 
-# The Stories Behind the Scholarships: The Medic Family Farm Scholarship
-
 Every scholarship has a story behind it: the people who created it, the experiences that inspired them to give and the students whose futures it may help shape.
 
 For the first installment of *The Stories Behind the Scholarships*, the Norwin School District Community Foundation visits the Medic Family Farm in Shafton, Pennsylvania. Founded in 1924, the farm has been part of the Norwin area and surrounding communities for more than a century.
