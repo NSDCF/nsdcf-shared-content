@@ -11,12 +11,12 @@ draft   = false
 
 [[videos]]
   name        = "The Stories Behind the Scholarships: The Medic Family Farm"
-  embedUrl    = "https://www.youtube.com/embed/UKITs2Q2RLE"
-  url         = "https://www.youtube.com/watch?v=UKITs2Q2RLE"
+  embedUrl    = "https://www.youtube.com/embed/TQnlPO2iYd8"
+  url         = "https://www.youtube.com/watch?v=TQnlPO2iYd8"
   description = "Every scholarship has a story behind it: the people who created it, the experiences that inspired them to give, and the students whose futures it may help shape. In this first installment of The Stories Behind the Scholarships, the Norwin School District Community Foundation visits the Medic Family Farm in Shafton, Pennsylvania, which was founded in 1924 and has now served the Norwin area and surrounding communities for more than a century."
-  duration    = "4m19s"
-  youtubeId   = "UKITs2Q2RLE"
-  uploadDate  = 2026-10-04T10:56:46-07:00
+  duration    = "4m43s"
+  youtubeId   = "TQnlPO2iYd8"
+  uploadDate  = 2026-10-06T17:37:08-07:00
 +++
 
 Every scholarship has a story behind it: the people who created it, the experiences that inspired them to give and the students whose futures it may help shape.
