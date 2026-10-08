@@ -32,7 +32,7 @@ Nominees must be graduates from Irwin, North Huntingdon, or Norwin High School  
 
 Those chosen by the committee will be honored at the upcoming Annual Knight of Distinguished Alumni Recognition Dinner at Stratigos Banquet Centre in North Huntingdon, Pennsylvania. 
 
-Nominations are due on or before January 15, 2027, by 4:00 p.m. (EST). Please contact the NAFA Board, via email at hello@norwinalumni.org with any questions. Nomination forms and supporting documents can also be submitted by mail to NAFA ℅ Lynn Clark, 11479 Drop Rd., North Huntingdon, PA 15642.
+Nominations are due on or before January 15, 2027, by 4:00 p.m. (EST). Please contact the NAFA Board, via email at hello@norwinalumni.org with any questions. Nomination forms and supporting documents can also be submitted by mail to NAFA ℅ Lynn Clark, 1361 Marcia Drive, North Huntingdon, PA 15642.
 
 Thank you in advance for helping the Norwin Alumni and Friends Association to recognize some of Norwin’s most distinguished graduates.
 
